@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-groq
+newspaper4k
+tavily-python
+plotly
+lxml_html_clean
+httpx
+requests
+certifi
+urllib3
