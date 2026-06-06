@@ -4,9 +4,8 @@ langchain-groq==0.3.2
 newspaper4k==0.9.3.1
 tavily-python==0.5.1
 plotly==6.1.1
-lxml==4.9.3
-lxml_html_clean==0.4.1
 httpx==0.28.1
 requests==2.32.3
 certifi==2025.4.26
 urllib3==2.4.0
+bleach==6.1.0
