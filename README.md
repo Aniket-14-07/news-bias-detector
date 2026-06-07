@@ -1,5 +1,7 @@
 # News Bias Detector
 
+**Live Demo:** https://news-bias-detector.streamlit.app
+
 An AI-powered web application that analyzes political bias, emotional language, missing context, and credibility of news articles. Built for political and current affairs journalism.
 
 Paste any news article URL and the system scrapes the article, searches the web for the same story across multiple sources, analyzes each one independently, and generates a cross-source comparison report with an interactive dashboard.
