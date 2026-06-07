@@ -10,3 +10,4 @@ certifi==2025.4.26
 urllib3==2.4.0
 bleach==6.1.0
 langsmith==0.1.147
+lxml-html-clean
